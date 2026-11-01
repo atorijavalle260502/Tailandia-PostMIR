@@ -1,0 +1,17 @@
+{
+  "id": "tailandia-2027-viaje-fin-de-carrera",
+  "name": "Tailandia 2027 · Viaje fin de carrera",
+  "short_name": "Tailandia 27",
+  "description": "Plan del viaje a Tailandia: calendario, mapa, presupuesto, tiempo y salud.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#FAF7F2",
+  "theme_color": "#FAF7F2",
+  "lang": "es",
+  "prefer_related_applications": false,
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}
+  ]
+}
